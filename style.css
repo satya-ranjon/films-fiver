@@ -1,0 +1,401 @@
+/* Custom navbar styling */
+body {
+  font-family: "Martel Sans", sans-serif;
+  max-width: 1920px;
+  margin: 0 auto;
+}
+.navbar {
+  padding: 15px 0;
+}
+
+.navbar-brand img {
+  height: 40px;
+}
+
+.navbar-nav .nav-link {
+  color: #0056a8 !important;
+  font-weight: 600;
+  margin: 0 0.5rem;
+  transition: color 0.3s ease;
+  font-size: 16px;
+}
+
+.btn-primary {
+  background-color: #0056a8;
+  font-weight: 700;
+  font-size: 14px;
+
+  height: 38px;
+  line-height: 14px;
+}
+
+.hero-left {
+  background-color: #0056a8;
+}
+
+.hero-title {
+  font-size: 48px;
+  line-height: 57.6px;
+  text-align: start;
+  margin: 0;
+  max-width: 500px;
+  font-weight: 800;
+}
+.hero-subtitle {
+  font-weight: 400;
+  font-style: Regular;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0%;
+  vertical-align: middle;
+  max-width: 420px;
+  margin-top: 8px;
+}
+
+.button-hero {
+  font-family: Martel Sans;
+  font-weight: 700;
+  font-style: Bold;
+  font-size: 14px;
+  line-height: 14px;
+  letter-spacing: 0%;
+  text-align: center;
+  vertical-align: bottom;
+  width: 197.86px;
+  height: 54px;
+  color: #0056a8;
+  margin-top: 76px;
+}
+
+.middle-image {
+  left: 50%;
+  bottom: 0%;
+  transform: translate(-50%, 0%);
+}
+
+.sobre {
+  font-family: Martel Sans;
+  font-weight: 400;
+  font-style: Regular;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 1px;
+  vertical-align: middle;
+  text-transform: uppercase;
+  color: #0056a8;
+}
+.quem-somos {
+  font-family: Martel Sans;
+  font-weight: 700;
+  font-style: Bold;
+  font-size: 39px;
+  line-height: 46.8px;
+  letter-spacing: -1.2px;
+  vertical-align: middle;
+  color: #0056a8;
+}
+.descricao {
+  font-family: Martel Sans;
+  font-weight: 400;
+  font-style: Regular;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0%;
+  vertical-align: middle;
+  color: #777777;
+}
+.nossa-missao {
+  font-family: Martel Sans;
+  font-weight: 700;
+  font-style: Bold;
+  font-size: 25px;
+  line-height: 32.5px;
+  letter-spacing: -0.5px;
+  vertical-align: middle;
+  color: #0056a8;
+  margin-top: 52px;
+}
+.nossos-produtos {
+  font-family: Martel Sans;
+  font-weight: 700;
+  font-style: Bold;
+  font-size: 39px;
+  color: #0056a8;
+  line-height: 46.8px;
+  letter-spacing: -1.2px;
+  vertical-align: middle;
+}
+.distribuímos {
+  font-family: Martel Sans;
+  font-weight: 400;
+  font-style: Regular;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 1px;
+  vertical-align: middle;
+  color: #0056a8;
+  max-width: 602px;
+  margin: 0 auto;
+}
+
+.poliolefínicos-item {
+  border: 2px solid #0056a8;
+  font-family: Martel Sans;
+  font-weight: 700;
+  font-style: Bold;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 1px;
+  vertical-align: middle;
+  width: 374px;
+  height: 63px;
+  opacity: 1;
+  top: 1685px;
+  left: 189px;
+  border-radius: 10px;
+  border-width: 2px;
+}
+
+.embalagens {
+  width: 374px;
+  height: 213px;
+  border-radius: 10px;
+  background-color: #0056a8;
+  padding: 32px;
+  margin-top: -180px;
+}
+.embalagens-title {
+  font-family: Martel Sans;
+  font-weight: 700;
+  font-style: Bold;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 1px;
+  vertical-align: middle;
+  color: #ffffff;
+}
+.embalagens-descricao {
+  font-family: Martel Sans;
+  font-weight: 400;
+  font-style: Regular;
+  font-size: 12px;
+  line-height: 150%;
+  letter-spacing: 1px;
+  vertical-align: middle;
+  color: #ffffff;
+}
+
+.Localização {
+  font-family: Martel Sans;
+  font-weight: 400;
+  font-style: Regular;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 1px;
+  vertical-align: middle;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+.visitar {
+  font-family: Martel Sans;
+  font-weight: 700;
+  font-style: Bold;
+  font-size: 39px;
+  line-height: 46.8px;
+  letter-spacing: -1.2px;
+  vertical-align: middle;
+  color: #ffffff;
+}
+.fábricas {
+  font-family: Martel Sans;
+  font-weight: 400;
+  font-style: Regular;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0%;
+  vertical-align: middle;
+  color: #ffffff;
+}
+.number {
+  font-family: Martel Sans;
+  font-weight: 700;
+  font-style: Bold;
+  font-size: 48px;
+  line-height: 57.6px;
+  letter-spacing: -1.5px;
+  text-align: center;
+  vertical-align: middle;
+  color: #0056a8;
+}
+
+.number-description {
+  font-family: Martel Sans;
+  font-weight: 600;
+  font-style: SemiBold;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0%;
+  text-align: center;
+  vertical-align: middle;
+  color: #0056a8;
+}
+.nossos-clientes {
+  font-family: Martel Sans;
+  font-weight: 400;
+  font-style: Regular;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 1px;
+  vertical-align: middle;
+  text-transform: uppercase;
+  color: #0056a8;
+}
+.nossos-parceiros {
+  font-family: Martel Sans;
+  font-weight: 700;
+  font-style: Bold;
+  font-size: 39px;
+  line-height: 46.8px;
+  letter-spacing: -1.2px;
+  vertical-align: middle;
+  color: #0056a8;
+}
+.distribuímos-construímos {
+  width: 655px;
+  margin: 0 auto;
+  font-family: Martel Sans;
+  font-weight: 400;
+  font-style: Regular;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0%;
+  vertical-align: middle;
+  color: #777777;
+}
+
+.parceiros-item {
+  font-family: Martel Sans;
+  font-weight: 700;
+  font-style: Bold;
+  font-size: 25px;
+  line-height: 32.5px;
+  letter-spacing: -0.5px;
+  vertical-align: middle;
+}
+
+.bem-vindo {
+  font-family: Martel Sans;
+  font-weight: 400;
+  font-style: Regular;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0%;
+  vertical-align: middle;
+  color: #777777;
+}
+.compartilhamos {
+  font-family: Martel Sans;
+  font-weight: 700;
+  font-style: Bold;
+  font-size: 39px;
+  line-height: 46.8px;
+  letter-spacing: -1.2px;
+  color: #0056a8;
+}
+.visitar-btn {
+  font-family: Martel Sans;
+  font-weight: 700;
+  font-style: Bold;
+  font-size: 14px;
+  line-height: 14px;
+  letter-spacing: 0%;
+  text-align: center;
+  vertical-align: middle;
+  width: 173px;
+}
+.compartilhamos-title {
+  font-family: Martel Sans;
+  font-weight: 700;
+  font-style: Bold;
+  font-size: 25px;
+  line-height: 32.5px;
+  letter-spacing: -0.5px;
+  vertical-align: middle;
+  color: #0056a8;
+}
+.compartilhamos-desc {
+  font-family: Martel Sans;
+  font-weight: 400;
+  font-style: Regular;
+  font-size: 16px;
+  color: #0056a8;
+  line-height: 24px;
+  letter-spacing: 0%;
+  vertical-align: middle;
+}
+.fale-conosco {
+  max-width: 469px;
+  font-family: Martel Sans;
+  font-weight: 600;
+  font-style: SemiBold;
+  font-size: 39px;
+  line-height: 46.8px;
+  letter-spacing: -1.2px;
+  vertical-align: middle;
+}
+
+.fale-conosco-descricao {
+  font-family: Martel Sans;
+  max-width: 469px;
+  font-weight: 400;
+  font-style: Regular;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0%;
+  vertical-align: middle;
+}
+.footer-embalagens {
+  font-family: Martel Sans;
+  font-weight: 400;
+  font-style: Regular;
+  font-size: 14px;
+  line-height: 21px;
+  letter-spacing: 0%;
+  vertical-align: middle;
+  max-width: 260px;
+  margin-top: 30px;
+}
+.footer-nav h1 {
+  font-family: Martel Sans;
+  font-weight: 700;
+  font-style: Bold;
+  font-size: 25px;
+  line-height: 32.5px;
+  letter-spacing: -0.5px;
+  vertical-align: middle;
+  color: #ffffff;
+}
+.footer-nav a {
+  font-family: Martel Sans;
+  font-weight: 400;
+  font-style: Regular;
+  font-size: 14px;
+  line-height: 21px;
+  letter-spacing: 0%;
+  vertical-align: middle;
+  color: #ffffff;
+  display: inline-block;
+  text-decoration: none;
+  margin-top: 4px;
+}
+
+footer {
+  font-family: Martel Sans;
+  font-weight: 400;
+  font-style: Regular;
+  font-size: 13px;
+  line-height: 24px;
+  letter-spacing: 0%;
+  vertical-align: middle;
+  color: #0056a8;
+}
